@@ -55,14 +55,15 @@ function HeroSection() {
 
            
            <div className="col-span-5 place-self-center mt-16 lg:mt-0">
-                <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative">
-                    <Image 
+                <div className="rounded-full bg-[#181818] w-[250px] h-[250px] lg:w-[400px] lg:h-[400px] relative ">
+                    {/* <Image 
                     className='absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'
-                    src='/avatar-animado.png'
+                    src='/'
                     alt='Hero Image'
                     width={300}
                     height={300}
-                />
+                /> */}
+                <h1 className='text-2xl text-white absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'>Insira uma imagem aqui</h1>
                 </div>
            </div>
 
