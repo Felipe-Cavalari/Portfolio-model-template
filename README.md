@@ -13,7 +13,7 @@
 Confira a demon em ação:
 
 <a href="https://portfolio-model-template.vercel.app" target="_blank">
-  <img src="public/Portfolio_home.png" alt="Texto alternativo da imagem">
+  <img src="public/Portfolio_home.png" alt="Home do portfolio">
 </a>
 
 ## Sobre o Projeto
