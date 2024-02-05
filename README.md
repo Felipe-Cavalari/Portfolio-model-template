@@ -12,7 +12,9 @@
 
 Confira a demon em ação:
 
-[![Página Inicial do Portfólio](public/Portfolio_home.png)](https://portfolio-model-template.vercel.app/#sobre_mim)
+<a href="https://portfolio-model-template.vercel.app" target="_blank">
+  <img src="public/Portfolio_home.png" alt="Texto alternativo da imagem">
+</a>
 
 ## Sobre o Projeto
 
